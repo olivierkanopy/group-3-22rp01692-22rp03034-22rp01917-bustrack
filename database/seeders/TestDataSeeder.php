@@ -11,7 +11,7 @@ class TestDataSeeder extends Seeder
 {
     public function run(): void
     {
-        // Create test bus
+       
         $bus = Bus::create([
             'number' => 'BUS-001',
             'model' => 'Test Bus',
