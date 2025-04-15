@@ -22,12 +22,12 @@ Select a bus
 Departure Time
 
 
-Arrival Time
+Arrival Times
 
 
 Schedule Date
 
-mm/dd/yyyy
+yyy/mm/dd
 Price (RWF)
 Create Schedule(CONFIRM SCHEDULE YOU CREATED) OR 
 Cancel
@@ -38,7 +38,7 @@ Bookings
 
 USER ALLOWE TO BOOKING AVAILABLE BUS My Bookings
 Reference	Route	Schedule	Seat	Price	Status	Payment	Actions
-No bookings found.
+No booking found.
 
 
 
