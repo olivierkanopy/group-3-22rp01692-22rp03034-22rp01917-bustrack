@@ -1,7 +1,6 @@
 <?php
 
 namespace App\Http\Controllers;
-
 use App\Models\Bus;
 use App\Models\Route;
 use App\Models\Schedule;
